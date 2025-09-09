@@ -1,0 +1,21 @@
+.Bag{
+  color: black;
+  background-color: rgb(186, 234, 186);
+  border: none;
+  padding: 5px 15px ;
+  border-radius: 10px; 
+}
+.Added{
+    color: black;
+  background-color: rgb(186, 234, 186);
+  border: none;
+  padding: 5px 20px ;
+  border-radius: 10px; 
+ 
+}
+.choose{
+  border: 2px solid black;
+  border-radius: 7px;
+  padding: 5px 45px;
+  text-transform: uppercase ;
+}
